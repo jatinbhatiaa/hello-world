@@ -2,9 +2,10 @@
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
+  <br>
 
   <div class="container">
-    <label for="uname"><b>Username</b></label>
+    <label for="uname"><b>jjj Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
 
