@@ -5,7 +5,7 @@
   <br>
 
   <div class="container">
-    <label for="uname"><b>jjjjdjjd Username</b></label>
+    <label for="uname"><b>jashvik Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
 
