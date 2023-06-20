@@ -1,5 +1,8 @@
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
+
+	  <br>
+
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
 
