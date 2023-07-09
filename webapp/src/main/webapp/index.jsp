@@ -9,7 +9,7 @@
   <br>
 
   <div class="container">
-    <label for="docker"><b>Username</b></label>
+    <label for="docker"><b>dokcer</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
     <br>
